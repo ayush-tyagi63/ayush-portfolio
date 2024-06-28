@@ -1,0 +1,127 @@
+.sidebar{
+    width: 325px;
+    height: 1200px;
+    background-color: whitesmoke;
+    color: rgb(104, 104, 104);
+}
+
+img{
+    width: 250px;
+    height: 300px;
+    margin-left: 25px;
+    margin-top: 10px;
+    border-radius: 10%;
+}
+
+#name{
+    margin-top: -40px;
+    margin-left: 30px;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+p{
+    margin-left: 10px;
+    /* padding-left: 10px; */
+}
+h3{
+    margin-left: 10px;
+}
+h2{
+    margin-left: 10px;
+}
+
+/* .progress{
+    width: 250px;
+    height: 15px;
+    background-color: blue;
+    margin-left: 20px;
+}
+.progress-progress1{
+    color: brown;
+} */
+
+
+/* Basic styling for the progress bar container */
+.progress {
+    width: 270px;
+    background-color: #f0f0f0;
+    margin-left: 13px;
+    /* border-top-right-radius: 50%; */
+    /* border-bottom-right-radius: 50%; */
+  }
+  
+  /* Styling for the progress bar itself */
+  .progress-bar {
+    height: 20px; /* Adjust height as needed */
+    background-color: lightblue; /* Green background color */
+    width: 0%; /* Initial width of 0% */
+    transition: width 0.3s ease; /* Smooth transition animation */
+    /* border-radius: 10%; */
+}
+  #progresstext{
+    text-align: center;
+  }
+
+.page{
+    width: 925px;
+    height: 1200px;
+    background-color: white;
+    margin-top: -1200px;
+    margin-left: 325px;
+    color: rgb(104, 104, 104);
+}
+
+.border{
+    border: 2px;
+    border-style:solid;
+    border-color: rgb(152, 152, 152);
+}
+
+.education{
+    font-size: 30px;
+    font-weight: bolder;
+    margin-left: 20px;
+    padding-top: 20px;
+}
+
+.date{
+    font-size: 20px;
+    font-weight: normal;
+    padding-top: 30px;
+}
+
+.info{
+    font-size: 20px;
+    font-weight: normal;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.ccsu{
+    font-size: 25px;
+}
+
+/* hr{
+     border: 10px; 
+} */
+
+/* iframe{
+    text-decoration: none;
+} */
+
+i{
+    color: #2b8f75;
+}
+
+.footer{
+    width: 1250px;
+    height: 150px;
+    background-color: rgb(234, 233, 233);
+    text-align: center;
+    padding-top: 30px;
+}
+
+/* .fa fa-facebook-official w3-hover-opacity{
+    
+} */
